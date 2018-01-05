@@ -1,0 +1,81 @@
+Status Code: 200
+Response Body
+{
+    "meta":
+    {},
+    "course_templates": [
+    {
+        "id": "150",
+        "estimated_time": 31,
+        "passing_threshold": 80,
+        "max_quiz_attempts": null,
+        "continuing_education_credits": null,
+        "title": "Emotional Intelligence",
+        "description": "Are you emotionally intelligent? We're talking about how you manage your behavior, navigate social situations, and make personal decisions to achieve positive results. This course provides tools, techniques, and tips to be more emotionally intelligent! ",
+        "is_published": true,
+        "has_unpublished_changes": false,
+        "retain": false,
+        "quizzes_count": 10,
+        "external_status": "inapplicable",
+        "external_status_message": null,
+        "course_type": "bridge",
+        "enrollments_count": 2,
+        "attachments_count": 23,
+        "updated_at": "2017-09-21T12:02:57.530-04:00",
+        "third_party_course_id": null,
+        "external_course_id": null,
+        "meta":
+        {
+            "domain_id": "1",
+            "sub_account_id": "1",
+            "r2b_jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50cyI6WyJha2l0YmFsaWFuIl0sImRvbWFpbnMiOlsiMSJdLCJpYXQiOjE1MDkzOTE1MDAsInN1Yl9hY2NvdW50X2lkcyI6WyIxIl0sImVuZHBvaW50cyI6ImNvdXJzZV90ZW1wbGF0ZS8iLCJjb3Vyc2VfaWRzIjpbMTUwXX0._QOAknx9Y04R2nglfcBxVU_1X-T_9OeM4QaH5JCBl0IbsmqRH-dOPvx0eUzETmWfoZHoUIXhVqRY1mxgE4vKEg"
+        },
+        "show_correct_response": true,
+        "sub_account":
+        {
+            "id": "1",
+            "name": "Armen Kitbalian Sandbox",
+            "is_root": true,
+            "sub_accounts_exist": true,
+            "not_current": false,
+            "tac_type": "domestic",
+            "tac_custom_body_markup": null,
+            "tac_updated_at": "2017-10-12T16:12:27.145Z"
+        },
+        "enrollment_counts":
+        {
+            "all": 0,
+            "required": 0,
+            "optional": 0,
+            "finished": 0,
+            "not_started": 0,
+            "overdue": 0,
+            "in_progress": 0
+        },
+        "is_library_item": false,
+        "tags": [],
+        "matching_tags": [],
+        "expires": false,
+        "default_days_until_expiration": null,
+        "auto_re_enroll": false,
+        "re_enrollment_period": 7,
+        "open_book": false,
+        "has_certificate": false,
+        "default_days_until_due": 7,
+        "open_enrollment": false,
+        "uuid": "ca290cd3",
+        "enroll_url": "https://akitbalian.bridgeapp.com/learner/courses/ca294cd3/enroll",
+        "links":
+        {
+            "author": "106"
+        },
+        "author":
+        {
+            "id": "106",
+            "uid": "bridge_support",
+            "name": "bridge_support",
+            "email": null,
+            "avatar_url": null
+        }
+    }]
+}

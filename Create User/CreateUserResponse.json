@@ -1,0 +1,2 @@
+Status Code: 200
+Response Body {"meta":{},"linked":{},"users":[{"id":"163","uid":"test@test.com","hris_id":null,"first_name":"testuserFN","last_name":"testuserLN","full_name":null,"sortable_name":null,"email":"test@test.com","locale":"en","roles":[],"name":"test@test.com","avatar_url":null,"updated_at":"2017-10-11T14:56:19.720-04:00","deleted_at":null,"unsubscribed":null,"welcomedAt":null,"loggedInAt":null,"hire_date":null,"is_manager":false,"job_title":null,"links":{},"meta":{"can_masquerade":true}}]}

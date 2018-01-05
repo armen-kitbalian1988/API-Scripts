@@ -1,0 +1,61 @@
+Status Code: 201
+Response Body
+{
+    "meta":
+    {},
+    "course_templates": [
+    {
+        "id": "228",
+        "estimated_time": null,
+        "passing_threshold": 80,
+        "max_quiz_attempts": null,
+        "continuing_education_credits": null,
+        "title": "APICreatedCourse",
+        "description": null,
+        "is_published": false,
+        "has_unpublished_changes": false,
+        "retain": false,
+        "quizzes_count": 0,
+        "external_status": "inapplicable",
+        "external_status_message": null,
+        "course_type": "bridge",
+        "enrollments_count": 0,
+        "attachments_count": 0,
+        "updated_at": "2017-10-30T12:39:35.250-04:00",
+        "third_party_course_id": null,
+        "external_course_id": null,
+        "meta":
+        {
+            "domain_id": "1",
+            "sub_account_id": "1",
+            "r2b_jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJhY2NvdW50cyI6WyJha2l0YmFsaWFuIl0sImRvbWFpbnMiOlsiMSJdLCJpYXQiOjE1MDkzODE1NzUsInN1Yl9hY2NvdW50X2lkcyI6WyIxIl0sImVuZHBvaW50cyI6ImNvdXJzZV90ZW1wbGF0ZS8iLCJjb3Vyc2VfaWRzIjpbMjI4XX0.6pxiBmQSQN2IM1RCeX30Wv2e9ubZna-hdHmno2dxTQ6sZIS-NvAY6A_8kqOKCxn9BAYEQ0L8ln6CyRQz9x85hQ"
+        },
+        "show_correct_response": true,
+        "sub_account":
+        {
+            "id": "1",
+            "name": "Armen Kitbalian Sandbox",
+            "is_root": true,
+            "sub_accounts_exist": true,
+            "not_current": false,
+            "tac_type": "domestic",
+            "tac_custom_body_markup": null,
+            "tac_updated_at": "2017-10-12T16:12:27.145Z"
+        },
+        "open_book": false,
+        "has_certificate": false,
+        "default_days_until_due": 7,
+        "links":
+        {
+            "author": ""
+        },
+        "author":
+        {
+            "id": "",
+            "uid": null,
+            "name": null,
+            "email": null,
+            "avatar_url": null
+        }
+    }]
+}
